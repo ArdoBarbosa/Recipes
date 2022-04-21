@@ -1,3 +1,3 @@
 # odin-recipes
-A collection of recipes build with HTML to test my knowledge of HTML basics.
+A website build with HTML that showcases a collection of recipes.
 
